@@ -1,7 +1,6 @@
 Author: Nam Nguyen
 Date: July 4th, 2018
-Description: This is a 3D web game that I created as my final project for a
-Computer Graphics tutorial that I took at Oxford University.
+Description: This is a 3D web game that I created as my final project for a Computer Graphics tutorial that I took at Oxford University.
 
 Instruction to install and run the game:
 - Clone this folder.
